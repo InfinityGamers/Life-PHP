@@ -1,0 +1,5 @@
+name: Life
+version: 1.0.0
+author: InfinityGamers
+api: [3.0.0]
+main: InfinityGamers\Life\Main
